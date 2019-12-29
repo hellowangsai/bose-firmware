@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ROOT MUV="2.1.0.1551.6380">
+		<PRODUCT PID="0x0952" URL="https://downloads.bose.com/eb/drowsy_charger/index.xml" />
+		<PRODUCT PID="0x1869" URL="https://downloads.bose.com/bosebuild/BB1/index.xml" />
+		<PRODUCT PID="0x1872" URL="https://downloads.bose.com/bosebuild/BB2/index.xml" />
+		<PRODUCT PID="0x400A" URL="https://downloads.bose.com/ced/PRE_RRA/isaac/index.xml" />
+		<PRODUCT PID="0x400C" URL="https://downloads.bose.com/ced/PRE_RRA/wolfcastle/index.xml" />
+		<PRODUCT PID="0x400D" URL="https://downloads.bose.com/ced/foreman/index.xml" />
+		<PRODUCT PID="0x4006" URL="https://downloads.bose.com/ced/champ/index.xml" />
+		<PRODUCT PID="0x4008" URL="https://downloads.bose.com/ced/moonraker/index.xml" />
+		<PRODUCT PID="0x4009" URL="https://downloads.bose.com/ced/kcup/index.xml" />
+		<PRODUCT PID="0x4010" URL="https://downloads.bose.com/ced/PRE_RRA/folgers/index.xml" />
+		<PRODUCT PID="0x4011" URL="https://downloads.bose.com/ced/PRE_RRA/harvey/index.xml" />
+		<PRODUCT PID="0x4012" URL="https://downloads.bose.com/ced/PRE_RRA/ice/index.xml" />
+		<PRODUCT PID="0x4013" URL="https://downloads.bose.com/ced/PRE_RRA/flurry/index.xml" />
+		<PRODUCT PID="0x4014" URL="https://downloads.bose.com/ced/PRE_RRA/powder/index.xml" />
+		<PRODUCT PID="0x4015" URL="https://downloads.bose.com/stetson/trapper/index.xml" />
+		<PRODUCT PID="0x4017" URL="https://downloads.bose.com/ced/kleos/index.xml" />
+		<PRODUCT PID="0x4018" URL="https://downloads.bose.com/ced/levi/index.xml" />
+		<PRODUCT PID="0x4020" URL="https://downloads.bose.com/ced/PRE_RRA/baywolf/index.xml" />
+		<PRODUCT PID="0x4022" URL="https://downloads.bose.com/ced/minnow/index.xml" />
+		<PRODUCT PID="0x4023" URL="https://downloads.bose.com/ced/pascal/index.xml" />
+		<PRODUCT PID="0x4024" URL="https://downloads.bose.com/ced/goodyear/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x402C" URL="https://downloads.bose.com/ced/celine/index.xml" />
+		<PRODUCT PID="0x4035" URL="https://downloads.bose.com/ced/m3/index.xml" />
+		<PRODUCT PID="0x404C" URL="https://downloads.bose.com/ced/celine2/index.xml" />
+		<PRODUCT PID="0xA211" URL="https://downloads.bose.com/pro/chibi/index.xml" DEVICE_CLASS="TYMPHANY" />
+		<RRA>
+			<RRA-PRODUCT PID="0x400A" URL="https://downloads.bose.com/ced/isaac/index.xml" />
+			<RRA-PRODUCT PID="0x400C" URL="https://downloads.bose.com/ced/wolfcastle/index.xml" />
+			<RRA-PRODUCT PID="0x4020" URL="http://127.0.0.1:5500/aaaaaaaaaa/index.xml" />
+			<RRA-PRODUCT PID="0x4010" URL="https://downloads.bose.com/ced/folgers/index.xml" />
+			<RRA-PRODUCT PID="0x4011" URL="https://downloads.bose.com/ced/harvey/index.xml" />
+			<RRA-PRODUCT PID="0x4012" URL="https://downloads.bose.com/ced/ice/index.xml" />
+			<RRA-PRODUCT PID="0x4013" URL="https://downloads.bose.com/ced/flurry/index.xml" />
+			<RRA-PRODUCT PID="0x4014" URL="https://downloads.bose.com/ced/powder/index.xml" />
+		</RRA>
+</ROOT>
